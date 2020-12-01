@@ -47,11 +47,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/314etroy/MyTravel.git"
+    "url": "git+https://github.com/314etroy/mytravel.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/314etroy/MyTravel/issues"
+    "url": "https://github.com/314etroy/mytravel/issues"
   },
-  "homepage": "https://github.com/314etroy/MyTravel"
+  "homepage": "https://github.com/314etroy/mytravel"
 }
