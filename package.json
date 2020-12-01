@@ -1,5 +1,5 @@
 {
-  "name": "MyTravel",
+  "name": "mytravel",
   "version": "1.0.0",
   "description": "MyTravel - Responsive Website Template",
   "main": "gulpfile.js",
@@ -47,11 +47,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madrasthemes/tolong-html.git"
+    "url": "git+https://github.com/314etroy/MyTravel.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/madrasthemes/mytravel-html/issues"
+    "url": "https://github.com/314etroy/MyTravel/issues"
   },
-  "homepage": "https://github.com/madrasthemes/mytravel-html"
+  "homepage": "https://github.com/314etroy/MyTravel"
 }
